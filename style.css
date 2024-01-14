@@ -45,7 +45,7 @@ h1{
                                                             a{
 
                                                             color: white;
-
+                                                                    text-decoration: none;
                                                             }
 
 
@@ -102,8 +102,12 @@ margin-top: 33.2em;
   
 
 .nav-item{
-
+font-size: 32px;
     color: #394149;
+    font-family: Karantina;
+    font-size: 42px;
+ 
+
 }
 
 
