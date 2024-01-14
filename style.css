@@ -1,0 +1,197 @@
+
+
+
+:root{
+
+--red-color:#BF3838;
+--dark-color:#394149;
+/* color variables */
+}
+
+
+h1{
+    
+    color: white;
+     font-size: 165px;
+     font-family: Karantina;
+     font-weight: 400;
+     word-wrap: break-word
+}
+
+
+/* Fonts */
+.karantina-light {
+    font-family: "Karantina", system-ui;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .karantina-regular {
+    font-family: "Karantina", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .karantina-bold {
+    font-family: "Karantina", system-ui;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+/* Fonts  */
+
+                                                            /* Elements */
+                                                            a{
+
+                                                            color: white;
+
+                                                            }
+
+
+                                                            li {
+
+                                                            text-decoration: none;
+                                                            list-style: none;}
+
+
+
+
+/* containers */
+.content{
+    height: auto;
+    padding: 23px;
+    
+      }
+
+
+
+      .hero-section {
+        background-image: url(img/desktop-pepper3.jpg);
+        height: 1647px;
+        z-index: 1; /* Set a lower z-index for the background image */
+      }
+      
+
+
+
+
+.lvlone{
+
+    justify-content: flex-start;
+margin-left: 22.4em;
+
+padding: 54px;
+margin-top: 33.2em;
+
+}
+
+/* Navigation */
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent; /* You may want to set a background color if needed */
+    z-index: 1000; /* Adjust the z-index to make sure it's higher than the background image */
+  }
+  
+  
+
+.nav-item{
+
+    color: #394149;
+}
+
+
+
+/* paragraphs
+ */
+.para-text{
+
+    color: #BF3838;
+    font-family: Karantina;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #BF3838;
+    letter-spacing: 0.11em;
+}
+
+
+.heading-text{
+    margin-left: 167px;
+    padding: 23px;
+        
+        color: #BF3838;
+         font-size: 165px;
+         font-family: Karantina;
+         font-weight: 400;
+         word-wrap: break-word
+    
+    }
+
+
+
+
+
+/* footer */
+.footer{
+text-align: center;
+background-image: url(img/Rectangle\ 5.png);
+
+height: 850px;
+}
+
+.heading-text-footer{
+    color: #BF3838;
+     font-size: 158px;
+     font-family: Karantina;
+     font-weight: 400;
+     word-wrap: break-word
+
+
+}
+.heading-text-footer-2{
+    color: #fafafa;
+     font-size: 158px;
+     font-family: Karantina;
+     font-weight: 400;
+     word-wrap: break-word;
+     margin-top: 12.5rem;
+        letter-spacing: 0.15em;
+}
+
+
+.footer-subtext{
+    letter-spacing: 0.055em;
+    color:var(--red-color);
+    font-size: 50px;
+    font-family: Karantina;
+    font-weight: 100;
+}
+
+#mule-sauce{
+    display: flex;
+    justify-content: flex-end;
+margin-right: 22.4em;
+text-align: center;
+padding: 54px;
+}
+
+/* End of the Footer */
+
+.lvl-three-text{
+padding: 4.5px;
+}
+
+#Level-Three-Section{
+    margin-top: 33.2em;
+    text-align: center;
+    height: 1450px;
+    
+    }
